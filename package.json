@@ -1,0 +1,24 @@
+{
+  "name": "tpexpaws4_sqs",
+  "version": "1.0.0",
+  "description": "create sqs,then ``` npm init npm install aws-sdk sqs-consumer --save ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rengokantai/tpexpaws4_sqs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rengokantai/tpexpaws4_sqs/issues"
+  },
+  "homepage": "https://github.com/rengokantai/tpexpaws4_sqs#readme",
+  "dependencies": {
+    "aws-sdk": "^2.3.14",
+    "sqs-consumer": "^3.1.3"
+  }
+}
